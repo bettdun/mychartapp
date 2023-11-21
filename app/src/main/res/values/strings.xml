@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mychart app</string>
+    <string name="type_message">type_message</string>
+    <string name="online">online</string>
+</resources>

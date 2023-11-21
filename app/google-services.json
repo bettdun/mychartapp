@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299834643201",
+    "project_id": "mychart-app",
+    "storage_bucket": "mychart-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299834643201:android:4ccf8dd5e291d932e78100",
+        "android_client_info": {
+          "package_name": "com.example.mychartapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8AoNc095Z5WNzdOEvuXflAc3zLQ7MnSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
